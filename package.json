@@ -1,7 +1,9 @@
 {
 	"name": "t.shinoda",
 	"version": "1.0.5",
+	"description": "my cli",
 	"license": "MIT",
+	"main": "dist/cli.js",
 	"bin": "dist/cli.js",
 	"engines": {
 		"node": ">=10"
@@ -13,7 +15,8 @@
 		"test": "xo && ava"
 	},
 	"files": [
-		"dist/cli.js"
+		"dist/cli.js",
+		"dist/ui.js"
 	],
 	"dependencies": {
 		"ink": "^3.2.0",
