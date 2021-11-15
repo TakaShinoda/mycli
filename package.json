@@ -1,7 +1,7 @@
 {
 	"name": "t.shinoda",
 	"version": "1.0.7",
-	"description": "my cli",
+	"description": "Install your own SNS information from npm. We believe this can be used to introduce yourself.",
 	"license": "MIT",
 	"main": "dist/cli.js",
 	"bin": "dist/cli.js",
