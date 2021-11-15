@@ -18,7 +18,10 @@ const App = ({ name = "SHINODA Takahiro" }) => {
             " https://github.com/TakaShinoda",
             react_1.default.createElement(ink_1.Newline, null),
             react_1.default.createElement(ink_1.Text, { color: "#f39700" }, "Blog:"),
-            " https://takashinoda.hatenablog.com/archive")));
+            " https://takashinoda.hatenablog.com/archive",
+            react_1.default.createElement(ink_1.Newline, null),
+            react_1.default.createElement(ink_1.Text, { color: "#D50101" }, "npm:"),
+            " https://www.npmjs.com/~t.shinoda")));
 };
 module.exports = App;
 exports.default = App;

@@ -12,6 +12,8 @@ const App: FC<{ name?: string }> = ({ name = "SHINODA Takahiro" }) => {
 				<Text color="#0e0c0d">GitHub:</Text> https://github.com/TakaShinoda
 				<Newline />
 				<Text color="#f39700">Blog:</Text> https://takashinoda.hatenablog.com/archive
+				<Newline />
+				<Text color="#D50101">npm:</Text> https://www.npmjs.com/~t.shinoda
 			</Text>
 		</Box>
 	);
