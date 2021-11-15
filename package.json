@@ -1,6 +1,6 @@
 {
 	"name": "t.shinoda",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "my cli",
 	"license": "MIT",
 	"main": "dist/cli.js",
