@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-$ npm install --global mycli
+$ npm isnstall --global mycli
 ```
 
 

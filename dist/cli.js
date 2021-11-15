@@ -10,13 +10,13 @@ const meow_1 = __importDefault(require("meow"));
 const ui_1 = __importDefault(require("./ui"));
 const cli = (0, meow_1.default)(`
 	Usage
-	  $ mycli
+	  $ t.shinoda
 
 	Options
 		--name  Your name
 
 	Examples
-	  $ mycli --name=Jane
+	  $ t.shinoda --name=Jane
 	  Hello, Jane
 `, {
     flags: {
