@@ -1,5 +1,5 @@
 import { FC } from "react";
 declare const App: FC<{
-    name?: string;
+    guest?: string;
 }>;
 export default App;
