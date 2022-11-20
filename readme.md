@@ -10,5 +10,5 @@ npx t.shinoda
 npx t.shinoda --name {your name}
 ```
 
-![スクリーンショット 2021-11-16 0 27 43](https://user-images.githubusercontent.com/45593212/141808599-0ef20934-2f22-4d13-b2e7-09f9a737d775.png)
+<img width="1000" alt="スクリーンショット 2022-11-20 14 43 48" src="https://user-images.githubusercontent.com/45593212/202887548-ead0d0cf-c22b-4370-863d-d2a723e19412.png">
 
